@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mvvmKotlinPractice</string>
+    <string name="excerpt">This is going to be our excerpt. It\'ll contain all the information about our text.</string>
+</resources>
